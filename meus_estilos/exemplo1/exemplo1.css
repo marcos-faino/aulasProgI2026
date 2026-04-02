@@ -1,0 +1,39 @@
+h1 {
+    font-family: cursive;
+    color: #52414C;
+    background-color: #CFD186;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-indent: 2em;
+}
+
+.par{
+    background-color: #596157;
+    color: #CFD186;
+}
+
+.especial{
+    font-size: 2em;
+}
+
+#primeiro{
+    border: 2px dotted #52414C;
+}
+
+header{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+    background-image: url("../../imagens/exemplo1/palm.jpg");
+    background-size: contain;
+}
